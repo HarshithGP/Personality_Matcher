@@ -1,0 +1,7 @@
+Matching Results 
+
+1.  Self-discipline -> 0.00119277630609
+2.  Achievement striving -> 0.00130367938542
+3.  Sympathy -> 0.00134596914432
+4.  Vulnerability -> 0.00391090187939
+5.  Self-consciousness -> 0.00763944612017
